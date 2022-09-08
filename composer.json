@@ -1,0 +1,16 @@
+{
+    "name": "deviser/help",
+    "description": "This is only for testing purpose",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Deviser": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deviser",
+            "email": "deviserops@gmail.com"
+        }
+    ]
+}
