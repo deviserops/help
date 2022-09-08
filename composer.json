@@ -1,6 +1,5 @@
 {
     "name": "deviser/help",
-    "description": "This is only for testing purpose",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -10,8 +9,9 @@
     },
     "authors": [
         {
-            "name": "Deviser",
+            "name": "deviser",
             "email": "deviserops@gmail.com"
         }
-    ]
+    ],
+    "require": {}
 }

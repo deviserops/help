@@ -1,6 +1,6 @@
 <?php
 
-namespace Deviser;
+namespace Base;
 
 class Helper {
     public function RandomString() {
