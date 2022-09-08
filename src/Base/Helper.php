@@ -1,6 +1,6 @@
 <?php
 
-namespace Base;
+namespace Help\Base;
 
 class Helper {
     public function RandomString() {
